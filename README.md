@@ -1,4 +1,4 @@
-# Personal Portfolio — Muhammad Kawser
+# Personal Portfolio | Kawser - Full-Stack Engineer
 
 ## Demo Frontend
 
@@ -15,18 +15,17 @@ Professional, responsive personal portfolio template for a Full Stack Developer 
 - Customization Guide
 - Deployment
 - Contributing
-- License
 - Contact
 
 ## Overview
 
-This repository contains a polished landing/portfolio website showcasing projects, services, client testimonials, and contact information for Muhammad Kawser — a Full Stack Developer and UI/UX Designer. The layout emphasizes performance, accessibility, and a modern aesthetic with theme switching and responsive components.
+This repository contains a polished landing/portfolio website showcasing projects, services, client testimonials, and contact information for Muhammad Kawser - a Full Stack Developer and UI/UX Designer. The layout emphasizes performance, accessibility, and a modern aesthetic with theme switching and responsive components.
 
 The project is intended both as a personal portfolio and as a starter template you can fork and customize to present your own work to clients.
 
 ## Live Demo github pages
 
-- GitHub Pages: https://kawser420.github.io/demo-personal-website/
+- **GitHub Pages:** https://go-kawser.github.io/demo-personal-website/
 
 ## Features
 
@@ -45,35 +44,35 @@ The project is intended both as a personal portfolio and as a starter template y
 - Font Awesome (icons)
 - Google Fonts (Poppins)
 
-## Project Structure
+### Project Structure
 
-Root files
+**Root files:**
 
 ```
 index.html            # Single-page portfolio site
 README.md             # Project documentation (this file)
 css/                  # Custom styles
-	└─ styles.css       # Project-specific CSS
+styles.css            # Project-specific CSS
 images/               # Placeholder images and avatar
 ```
 
 ### Key sections in `index.html`:
 
-- Header / Navigation — responsive navbar with theme picker and Hire button
-- Hero — prominent headline, call-to-actions and animated typewriter
-- About — personal summary, contact metadata, and skills
-- Services — cards describing offered services
-- Portfolio — projects gallery (image cards)
-- Testimonials — client feedback carousel
-- Contact — contact call-to-action and links
+- Header / Navigation - responsive navbar with theme picker and Hire button
+- Hero - prominent headline, call-to-actions and animated typewriter
+- About - personal summary, contact metadata, and skills
+- Services - cards describing offered services
+- Portfolio - projects gallery (image cards)
+- Testimonials - client feedback carousel
+- Contact - contact call-to-action and links
 
-## Getting Started
+### Getting Started
 
-Prerequisites: a modern browser. To run locally:
+**Prerequisites: a modern browser. To run locally:**
 
-1. Clone the repository
+1. Clone the repository:
 
-- git clone https://github.com/Kawser420/demo-personal-website.git
+- git clone https://github.com/go-kawser/demo-personal-website.git
 
 ### Customization Guide
 
@@ -90,38 +89,32 @@ Prerequisites: a modern browser. To run locally:
 
 ### Deployment
 
-Recommended quick deploy options:
+**Recommended quick deploy options:**
 
-- GitHub Pages — push to `main` and enable Pages from the repository settings (select root). The site will be served at `https://<username>.github.io/<repo>`.
-- Netlify / Vercel — drag & drop the project folder or connect your GitHub repo for CI/CD.
+- GitHub Pages - push to `main` and enable Pages from the repository settings (select root). The site will be served at `https://go-kawser.github.io/demo-personal-website/`.
+- Netlify / Vercel - drag & drop the project folder or connect your GitHub repo for CI/CD.
 
 ### Contributing
 
 This repo is primarily a personal portfolio template. If you'd like to suggest improvements, feel free to open an issue or submit a pull request. Keep changes focused and provide screenshots for visual edits.
 
-Suggested contribution workflow:
+**Suggested contribution workflow:**
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feat/awesome-improvement`)
 3. Commit changes and push
 4. Open a Pull Request describing your changes
 
-#### License
-
-This project is provided under the MIT License. See the `LICENSE` file for details.
-
 ##### Contact
 
-- Name: Muhammad Kawser
-- Email: hello@kawser.dev
-- Location: Dhaka, Bangladesh
+- **Name:** Kawser - Full-Stack Engineer
+- **Email:** abu.kayser.official@gmail.com
+- **Location:** Tangail, Dhaka, Bangladesh
 
 If you'd like help customizing this template, or want to hire, use the contact links on the site or email directly.
 
 ---
 
-Made with love — a clean, responsive portfolio template for showcasing modern web skills.
+**Made with love - a clean, responsive portfolio template for showcasing modern web skills.**
 
-```
-
-```
+---
